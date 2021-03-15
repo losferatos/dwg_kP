@@ -1,0 +1,17 @@
+.rand {
+	border: 3px solid red;
+}
+
+h1, h2 {
+	text-transform: uppercase;
+}
+
+hr {
+	padding: 2px;
+}
+
+@media (min-width: 601px) {
+	.topnav {
+		border: 3px solid red;
+	}
+}
